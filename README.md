@@ -20,12 +20,6 @@ CSS3
 JavaScript 
 
 
-Instalación
-    Clona el repositorio: git clone https://github.com/tu-usuario/tu-repositorio.git
-
-Abre el archivo index.html en un navegador para ver la página web
-Uso
-
     Visita la página web para conocer más sobre mí y mi trabajo
 
 Explora la sección "Portafolio" para ver mis proyectos y logrosUtiliza la sección "Contacto" para enviarme un mensaje

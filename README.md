@@ -1,7 +1,7 @@
-# Portafolio Web - Vanesa Carrillo CC 1152212993 | Clan Linus - evcm1996@gmail.com
+Portafolio Web - Vanesa Carrillo CC 1152212993 | Clan Linus - evcm1996@gmail.com
 
 
-¡Hola! 👋 Soy **Vanesa Carrillo**, una desarrolladora front-end en proceso, apasionada por el diseño, la tecnología y la expresión visual. Este proyecto es mi portafolio personal, una ventana a mi mundo creativo y profesional.
+#¡Hola! 👋 Soy **Vanesa Carrillo**, una desarrolladora front-end en proceso, apasionada por el diseño, la tecnología y la expresión visual. Este proyecto es mi portafolio personal, una ventana a mi mundo creativo y profesional.
 
 ## 🌐 Proyecto
 

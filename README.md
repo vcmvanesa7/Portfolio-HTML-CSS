@@ -7,7 +7,7 @@
 Este sitio web incluye:
 
 - 🎨 Una página principal con animaciones y presentación personal.
-  <img src="./assets/screenshots/home.png" alt="Inicio" width="100"/>
+- <img src="./assets/screenshots/home.png" alt="Inicio" width="100"/>
 - 💼 Sección de **About me** para mostrar mis trabajos destacados.
 - <img src="./assets/screenshots/aboutme.png" alt="sección conóceme" width="100"/>
 - 📬 Sección de **Contacto** con mis datos de comunicación.

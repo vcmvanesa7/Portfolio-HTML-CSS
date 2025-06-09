@@ -7,7 +7,7 @@
 Este sitio web incluye:
 
 - 🎨 Una página principal con animaciones y presentación personal.
-  ![Inicio](./assets/screenshots/home.png)
+  <img src="./assets/screenshots/home.png" alt="Inicio" width="200"/>
 - 💼 Sección de **Portafolio** para mostrar mis trabajos destacados.
 - 📬 Sección de **Contacto** con mis datos de comunicación.
 - 🌙 Modo nocturno (próximo en desarrollo).

@@ -12,6 +12,8 @@ Este sitio web incluye:
 - <img src="./assets/screenshots/home.png" alt="Inicio" width="100"/>
 - 💼 Sección de **About me** para mostrar mis trabajos destacados.
 - <img src="./assets/screenshots/aboutme.png" alt="sección conóceme" width="100"/>
+- 📒 Sección de **Portafolio** con mis datos de comunicación.
+- <img src="./assets/screenshots/contact.png" alt="portafolio" width="100"/>
 - 📬 Sección de **Contacto** con mis datos de comunicación.
 - <img src="./assets/screenshots/contact.png" alt="sección contacto" width="100"/>
 

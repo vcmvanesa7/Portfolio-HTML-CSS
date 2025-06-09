@@ -22,6 +22,7 @@ Este sitio web incluye:
 - HTML5
 - CSS3
 - Google Fonts
+- JavaScript
 - Animaciones personalizadas
 
 ## 📂 Estructura del proyecto
@@ -41,7 +42,7 @@ Este proyecto fue desarrollado como parte de una prueba técnica para mi proceso
 
 ## 🙏 Gracias
 
-Gracias por visitar mi portafolio. ¡Espero que lo disfrutes tanto como yo disfruté crearlo!
+Gracias por visitar mi portafolio. ¡Espero que lo disfrutes tanto como yo disfruté crearlo!😅
 
 ---
 

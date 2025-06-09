@@ -1,29 +1,46 @@
-# Portfolio-HTML-CSS #
-Prueba de desempeño Riwi M2
+# Portafolio Web - Vanesa Carrillo
 
-Título del Proyecto
-Mi Portafolio Web
+¡Hola! 👋 Soy **Vanesa Carrillo**, una desarrolladora front-end en proceso, apasionada por el diseño, la tecnología y la expresión visual. Este proyecto es mi portafolio personal, una ventana a mi mundo creativo y profesional.
 
-Descripción
-Este es mi portafolio web personal, diseñado para mostrar mis habilidades y experiencias como desarrolladora web, La página incluye secciones sobre mí, mi portafolio y contacto.
+## 🌐 Proyecto
 
-Características
+Este sitio web incluye:
 
-Sección "Sobre mí" que describe mi experiencia y habilidades ##
+- 🎨 Una página principal con animaciones y presentación personal.
+- 💼 Sección de **Portafolio** para mostrar mis trabajos destacados.
+- 📬 Sección de **Contacto** con mis datos de comunicación.
+- 🌙 Modo nocturno (próximo en desarrollo).
 
-Sección "Portafolio" que muestra mis proyectos y logrosSección "Contacto" que permite a los visitantes comunicarse conmigoDiseño responsivo y adaptable a diferentes dispositivos
+## 🛠️ Tecnologías utilizadas
 
-Tecnologías Utilizadas
+- HTML5
+- CSS3
+- Google Fonts
+- Animaciones personalizadas
 
-HTML5 
-CSS3
-JavaScript 
+## 📂 Estructura del proyecto
+
+📁 assets
+├── img (imágenes usadas en el proyecto)
+├── ...
+├── styles.css (hoja de estilos principal)
+├── index.html (página principal)
+├── portofolio.html (sección de portafolio)
+└── contact.html (sección de contacto)
 
 
-    Visita la página web para conocer más sobre mí y mi trabajo
+## 💡 Nota
 
-Explora la sección "Portafolio" para ver mis proyectos y logrosUtiliza la sección "Contacto" para enviarme un mensaje
-Contacto
+Este proyecto fue desarrollado como parte de una prueba técnica para el bootcamp de programación. A pesar del tiempo limitado, trabajé con dedicación para reflejar mis habilidades en diseño y desarrollo web.
 
-  
+## 🙏 Gracias
+
+Gracias por visitar mi portafolio. ¡Espero que lo disfrutes tanto como yo disfruté crearlo!
+
+---
+
+**Vanesa Carrillo**  
+Desarrolladora Front-End en proceso 💻 | Diseñadora Visual 🎨
+
+
 ﻿

@@ -22,7 +22,7 @@ Este sitio web incluye:
 - HTML5
 - CSS3
 - Google Fonts
-- JavaScript
+- JavaScript (Sólo un poco)
 - Animaciones personalizadas
 
 ## 📂 Estructura del proyecto

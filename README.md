@@ -35,7 +35,7 @@ Este sitio web incluye:
 
 ## 💡 Nota
 
-Este proyecto fue desarrollado como parte de una prueba técnica para el bootcamp de programación. A pesar del tiempo limitado, trabajé con dedicación para reflejar mis habilidades en diseño y desarrollo web.
+Este proyecto fue desarrollado como parte de una prueba técnica para mi proceso de aprendizaje en Riwi. A pesar del tiempo limitado, trabajé con dedicación para reflejar mis habilidades en diseño y desarrollo web.
 
 ## 🙏 Gracias
 

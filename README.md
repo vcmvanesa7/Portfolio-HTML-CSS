@@ -1,4 +1,4 @@
-# Portfolio-HTML-CSS
+# Portfolio-HTML-CSS #
 Prueba de desempeño Riwi M2
 
 Título del Proyecto
@@ -9,9 +9,9 @@ Este es mi portafolio web personal, diseñado para mostrar mis habilidades y exp
 
 Características
 
-##Sección "Sobre mí" que describe mi experiencia y habilidades
+##Sección "Sobre mí" que describe mi experiencia y habilidades ##
 
-##Sección "Portafolio" que muestra mis proyectos y logrosSección "Contacto" que permite a los visitantes comunicarse conmigoDiseño responsivo y adaptable a diferentes dispositivos
+##Sección "Portafolio" que muestra mis proyectos y logrosSección "Contacto" que permite a los visitantes comunicarse conmigoDiseño responsivo y adaptable a diferentes dispositivos##
 
 Tecnologías Utilizadas
 
